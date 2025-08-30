@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kamran Qayoom  
 
-🎓 Student of **Data Science & AI  at the University of Kashmir  
+🎓 Student of   Data Science & AI  at the University of Kashmir  
 💻 Passionate about **Artificial Intelligence, Machine Learning, and Data Structures**  
 📊 Exploring **Algorithms, Problem Solving, and Open Source Contributions**  
 📸 Also a **Content Creator & Tech Enthusiast** from Kashmir 🌍  
